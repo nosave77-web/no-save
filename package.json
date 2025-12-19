@@ -1,5 +1,5 @@
 {
-  "name": "no-save",
+  "name": "gta-v:-bypass-imobiliário-elite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "react": "^19.2.3",
+    "@google/genai": "^1.34.0",
     "react-dom": "^19.2.3"
   },
   "devDependencies": {
